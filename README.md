@@ -8,8 +8,9 @@ A cold email generator for service companies built with Groq, LangChain, and Str
 - Now, Parvesh Aggarwal, a Business Development Executive at ValueCoders, plans to connect with Google, Amazon, and Tesla through a well-crafted cold email.
  
 # DEMO
-  Uploading cold-email-generator-Demo By AshwinDumane.mp4…
-  
+
+https://github.com/user-attachments/assets/d7992f86-b8da-482c-82c9-7650650e50f2
+
   ![Screenshot 2024-12-04 000200](https://github.com/user-attachments/assets/095d48a6-96f1-40be-9642-697fb6c91eb1)
   ![Screenshot 2024-12-04 000357](https://github.com/user-attachments/assets/d126dba5-089a-4e8a-96a8-6944acbc223a)
   ![Screenshot 2024-12-04 000459](https://github.com/user-attachments/assets/0484b08c-625a-4ec7-ae8d-d92b065961f2)
