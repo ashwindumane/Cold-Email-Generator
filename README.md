@@ -11,9 +11,8 @@ A cold email generator for service companies built with Groq, LangChain, and Str
 
 https://github.com/user-attachments/assets/d7992f86-b8da-482c-82c9-7650650e50f2
 
-  ![Screenshot 2024-12-04 000200](https://github.com/user-attachments/assets/095d48a6-96f1-40be-9642-697fb6c91eb1)
-  ![Screenshot 2024-12-04 000357](https://github.com/user-attachments/assets/d126dba5-089a-4e8a-96a8-6944acbc223a)
-  ![Screenshot 2024-12-04 000459](https://github.com/user-attachments/assets/0484b08c-625a-4ec7-ae8d-d92b065961f2)
+# Tech Architecture
+![image](https://github.com/user-attachments/assets/6f4cab76-562f-4ef2-9a53-1d8962c1b5b1)
 
 ### Tools and Technologies:
 
