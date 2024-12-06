@@ -14,6 +14,25 @@ https://github.com/user-attachments/assets/d7992f86-b8da-482c-82c9-7650650e50f2
   ![Screenshot 2024-12-04 000200](https://github.com/user-attachments/assets/095d48a6-96f1-40be-9642-697fb6c91eb1)
   ![Screenshot 2024-12-04 000357](https://github.com/user-attachments/assets/d126dba5-089a-4e8a-96a8-6944acbc223a)
   ![Screenshot 2024-12-04 000459](https://github.com/user-attachments/assets/0484b08c-625a-4ec7-ae8d-d92b065961f2)
+
+### Tools and Technologies:
+
+1. **Llama 3.1**: Open-source LLM for fast response and generative AI tasks.
+2. **ChromaDB**: Vector store for creating, manipulating, and retrieving collections using Python.
+3. **LangChain**: Framework for prompt engineering and seamless integration of LLMs.
+4. **Streamlit**: For quick UI prototyping of the generator.
+5. **Web B Loader**: For web scraping and extracting relevant data.
+6. **Prompt Engineering**: Crafting templates and data extraction for email generation.
+7. **Secure Practices**: Storing API keys securely and separately from the codebase.  
+
+### Functionality Highlights:
+- Automated generation of cold emails based on job posts or skill requirements.
+- End-to-end automation of the job application process using Gen AI.
+
+# Highlights 
+   ![Screenshot 2024-12-04 000200](https://github.com/user-attachments/assets/095d48a6-96f1-40be-9642-697fb6c91eb1)
+  ![Screenshot 2024-12-04 000357](https://github.com/user-attachments/assets/d126dba5-089a-4e8a-96a8-6944acbc223a)
+  ![Screenshot 2024-12-04 000459](https://github.com/user-attachments/assets/0484b08c-625a-4ec7-ae8d-d92b065961f2)
  
 ## Set-up
 1. To get started we first need to get an API_KEY from here: https://console.groq.com/keys. Inside `app/.env` update the value of `GROQ_API_KEY` with the API_KEY you created. 
