@@ -28,11 +28,6 @@ https://github.com/user-attachments/assets/d7992f86-b8da-482c-82c9-7650650e50f2
 - Automated generation of cold emails based on job posts or skill requirements.
 - End-to-end automation of the job application process using Gen AI.
 
-# Highlights 
-   ![Screenshot 2024-12-04 000200](https://github.com/user-attachments/assets/095d48a6-96f1-40be-9642-697fb6c91eb1)
-  ![Screenshot 2024-12-04 000357](https://github.com/user-attachments/assets/d126dba5-089a-4e8a-96a8-6944acbc223a)
-  ![Screenshot 2024-12-04 000459](https://github.com/user-attachments/assets/0484b08c-625a-4ec7-ae8d-d92b065961f2)
- 
 ## Set-up
 1. To get started we first need to get an API_KEY from here: https://console.groq.com/keys. Inside `app/.env` update the value of `GROQ_API_KEY` with the API_KEY you created. 
 
